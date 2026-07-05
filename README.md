@@ -12,7 +12,6 @@ Open Hardware for educational use.
 When using or sharing this design, attribution is requested:
 
 **Sara Berarducci**
-
 https://www.saraberarducci.com/hardware/altium-business-card-challenge
 
 ## Copyright
