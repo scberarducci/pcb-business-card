@@ -9,7 +9,7 @@ Open Hardware for educational use.
 *Name, logo, and personal branding are **not** licensed for reuse except for attribution/reference purposes.*
 
 ## Attribution
-When using or sharing this design, attribution is requested:
+When using or sharing this design, attribution is requested.
 **Sara Berarducci**
 https://www.saraberarducci.com/hardware/altium-business-card-challenge
 
