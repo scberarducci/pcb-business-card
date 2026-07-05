@@ -1,6 +1,5 @@
 # PCB Business Card
-Design for Altium Academy's PCB Business Card Design Challenge (2026) 
-Original design by Sara Berarducci. 
+Design for Altium Academy's PCB Business Card Design Challenge (2026). Original design by Sara Berarducci. 
 Open Hardware for educational use.
 
 ## License
