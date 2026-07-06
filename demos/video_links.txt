@@ -1,0 +1,5 @@
+Original breadboard circuit: 
+https://drive.google.com/file/d/1XpT-ARhfIReBm9H97mOf5g29ecg2SI3U/view?usp=drive_link 
+
+Fabricated card (rev 1.0):
+https://drive.google.com/file/d/1Ts1VaveLqz0nB2ycd1Uyslbvo69Uqb5h/view?usp=drive_link
